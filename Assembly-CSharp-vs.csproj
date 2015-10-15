@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DialoguePanel.cs" />
+     <Compile Include="Assets\DialogueDetector.cs" />
+     <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\Scripts\Character.cs" />
+     <Compile Include="Assets\Scripts\DialoguePanel.cs" />
+     <Compile Include="Assets\Scripts\TestDialoguePanel.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
